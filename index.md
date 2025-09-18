@@ -77,3 +77,10 @@ layout: default
 3.  可能比物理SIM卡稍贵一点，但省去了换卡的麻烦。
 
 　　**话说回来，** 如果你行前就希望落地无缝连接，或者行程涉及多国，提前购买一个覆盖缅甸的eSIM可能更省心。✈ [@esim1088](https://t.me/s/esim1088) 提供面向出境通信的 eSIM 服务，支持多国套餐，出发前购买，落地即用。这种全球性的eSIM服务商，免去了落地找店
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Myanmar eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/myanmar-data-plans)
